@@ -1,0 +1,129 @@
+{
+  "movie_details": [
+    {
+      "title": "After Dark in Central Park",
+      "year": 1900,
+      "major_genre": "Short"
+    },
+    {
+      "title": "Boarding School Girls' Pajama Parade",
+      "year": 1900,
+      "major_genre": "Documentary"
+    },
+    {
+      "title": "Buffalo Bill's Wild West Parad",
+      "year": 1900,
+      "major_genre": "Drama"
+    },
+    {
+      "title": "Caught",
+      "year": 1900,
+      "major_genre": "Action"
+    },
+    {
+      "title": "Clowns Spinning Hats",
+      "year": 1900,
+      "major_genre": "Action"
+    },
+    {
+      "title": "Capture of Boer Battery by British",
+      "year": 1900,
+      "major_genre": "Short"
+    },
+    {
+      "title": "The Enchanted Drawing",
+      "year": 1900,
+      "major_genre": "Comedy"
+    },
+    {
+      "title": "Feeding Sea Lions",
+      "year": 1900,
+      "major_genre": "Action"
+    },
+    {
+      "title": "How to Make a Fat Wife Out of Two Lean Ones",
+      "year": 1900,
+      "major_genre": "Comedy"
+    },
+    {
+      "title": "New Life Rescue",
+      "year": 1900,
+      "major_genre": "Comedy"
+    },
+    {
+      "title": "New Morning Bath",
+      "year": 1900,
+      "major_genre": "Drama"
+    },
+    {
+      "title": "Searching Ruins on Broadway, Galveston, for Dead Bodies",
+      "year": 1900,
+      "major_genre": "Short"
+    },
+    {
+      "title": "The Tribulations of an Amateur Photographer",
+      "year": 1900,
+      "major_genre": "Documentary"
+    },
+    {
+      "title": "Trouble in Hogan's Alley",
+      "year": 1900,
+      "major_genre": "Comedy"
+    },
+    {
+      "title": "Two Old Sparks",
+      "year": 1900,
+      "major_genre": "Short"
+    },
+    {
+      "title": "The Wonder, Ching Ling Foo",
+      "year": 1900,
+      "major_genre": "Short"
+    },
+    {
+      "title": "Watermelon Contest",
+      "year": 1900,
+      "major_genre": "Short"
+    },
+    {
+      "title": "Acrobats in Cairo",
+      "year": 1901,
+      "major_genre": "Comedy"
+    },
+    {
+      "title": "An Affair of Honor",
+      "year": 1901,
+      "major_genre": "Action"
+    },
+    {
+      "title": "Another Job for the Undertaker",
+      "year": 1901,
+      "major_genre": "Drama"
+    },
+    {
+      "title": "Arrival of Tongkin Train",
+      "year": 1901,
+      "major_genre": "Drama"
+    },
+    {
+      "title": "The Artist's Dilemma",
+      "year": 1901,
+      "major_genre": "Drama"
+    },
+    {
+      "title": "wampire I",
+      "year": "2014",
+      "major_genre": "drama"
+    },
+    {
+      "title": "Indian",
+      "genre": "2008",
+      "year": "Action"
+    },
+    {
+      "title": "Indian",
+      "genre": "2008",
+      "year": "Action"
+    }
+  ]
+}
